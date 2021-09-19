@@ -1,2 +1,2 @@
-# MultiplicationOfPersistance
-Simple project 4fun
+# Multiplication Of Digits
+
